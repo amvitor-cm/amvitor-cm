@@ -18,13 +18,6 @@ I'm a **Frontend Developer** who crafts **modern, responsive, and high-quality d
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML5, CSS3  
 - **Tools:** Git/GitHub, Framer Motion, API integration, Responsive design  
 - **Web3:** Blockchain integration, NFT platforms
-- ### 🛠️ Tech Stack
-
-**Frontend:** ![React](...) ![Next.js](...) ![Tailwind CSS](...)  
-**Languages:** ![JavaScript](...) ![TypeScript](...)  
-**Tools:** ![Git](...) ![Figma](...)
-
-
 
 ---
 
