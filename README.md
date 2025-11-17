@@ -34,7 +34,7 @@ I'm a **Frontend Developer** who crafts **modern, responsive, and high-quality d
 
 ---
 
-## 📬 Let’s Connect
+##  Let’s Connect
 
 I’m open to freelance projects, collaborations, and client work.  
 Reach out via:
