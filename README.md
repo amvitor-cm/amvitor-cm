@@ -13,14 +13,14 @@ I’m a **Community Manager** and **Frontend Developer**, building clean, respon
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 Check out my portfolio to see some of my projects:  
 [My Portfolio](https://tam-portfolio-nant.vercel.app/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Here are some of the technologies and tools I use:
 
@@ -31,7 +31,7 @@ Here are some of the technologies and tools I use:
 
 ---
 
-## 📈 Why Work With Me
+##  Why Work With Me
 
 - I deliver modern, **high-quality digital experiences**  
 - I build with **scalability**, **accessibility**, and **performance** in mind  
@@ -40,12 +40,12 @@ Here are some of the technologies and tools I use:
 
 ---
 
-## 📫 Let’s Talk
+##  Let’s Talk
 
 Feel free to reach out if you have a project in mind or want to collaborate:
 
 - **Email**: amvitor.cm@gmail.com 
-- **X**: [Your LinkedIn Profile](https://x.com/amvitor_cmd)  
+- **X**: [x.com/amvitor_cmd](https://x.com/amvitor_cmd)  
 - **Portfolio**: [tam-portfolio-nant.vercel.app](https://tam-portfolio-nant.vercel.app/)
 
 ---
