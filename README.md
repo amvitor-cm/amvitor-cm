@@ -1,53 +1,49 @@
-# Hi there, I'm Tam👋
+# 👋 Hi, I'm Tam
 
-I’m a **Community Manager** and **Frontend Developer**, building clean, responsive, and modern digital experiences for startups, Web3 projects, and growing businesses.
-
----
-
-## 💼 What I Do
-
-- Design & develop **landing pages**, **portfolio sites**, and **web templates**  
-- Create **eCommerce** and **Web3 / NFT marketplace** frontends  
-- Focus on **user experience (UX)**, **performance**, and **accessibility**  
-- Provide **ongoing maintenance** and support for client projects
+I'm a **Frontend Developer** who crafts **modern, responsive, and high-quality digital experiences**. I specialize in creating websites and web apps that not only look good but **perform seamlessly** across all devices.
 
 ---
 
-##  Featured Work
+##  What I Do
 
-Check out my portfolio to see some of my projects:  
-[My Portfolio](https://tam-portfolio-nant.vercel.app/)
-
----
-
-## Tech Stack
-
-Here are some of the technologies and tools I use:
-
-- **Frontend**: HTML, CSS / Tailwind, JavaScript, React  
-- **Build & Deployment**: Vercel, GitHub  
-- **Design**: Figma (for layout & mockups)  
-- **Collaboration**: Git, GitHub, Slack / Discord  
+- Build **landing pages, portfolio sites, and web apps**  
+- Develop **eCommerce and Web3 frontends**  
+- Focus on **UI/UX, animations, accessibility, and performance**  
+- Deliver **clean, maintainable code** for long-term projects  
 
 ---
 
-##  Why Work With Me
+##  Tech Stack
 
-- I deliver modern, **high-quality digital experiences**  
-- I build with **scalability**, **accessibility**, and **performance** in mind  
-- I’m **responsive**, collaborative, and client-focused  
-- I can turn your vision into a website that not only looks good, but **converts**
-
----
-
-##  Let’s Talk
-
-Feel free to reach out if you have a project in mind or want to collaborate:
-
-- **Email**: amvitor.cm@gmail.com 
-- **X**: [x.com/amvitor_cmd](https://x.com/amvitor_cmd)  
-- **Portfolio**: [tam-portfolio-nant.vercel.app](https://tam-portfolio-nant.vercel.app/)
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML5, CSS3  
+- **Tools:** Git/GitHub, Framer Motion, API integration, Responsive design  
+- **Web3:** Blockchain integration, NFT platforms  
 
 ---
 
-Thanks for stopping by — let’s build something amazing together!  
+## 🌟 Selected Projects
+
+| Project | Description | Stack | Demo / Code |
+|---------|-------------|-------|-------------|
+| Proof Of Skill | Web3 skill verification platform | React, Web3, Next.js | [Live](#) / [GitHub](#) |
+| Modern NFT Marketplace | NFT marketplace with modern UI/UX | React, Web3 | [Live](#) / [GitHub](#) |
+| Eco Ecommerce | Sustainable eCommerce platform | React, Tailwind, Animations | [Live](#) / [GitHub](#) |
+| Mintors Network | Community platform for professionals | React, Social | [Live](#) / [GitHub](#) |
+| RWA Modern Website | Blockchain investment landing page | React, Responsive | [Live](#) / [GitHub](#) |
+
+
+---
+
+## 📬 Let’s Connect
+
+I’m open to freelance projects, collaborations, and client work.  
+Reach out via:
+
+- **Email:** amvitor.cm@gmail.com  
+- **GitHub:** [github.com/amvitor-cm](https://github.com/amvitor-cm)  
+- **Twitter/X:** [@amvitor_cmd](https://twitter.com/amvitor_cmd)  
+- **Portfolio:** [tam-portfolio-nant.vercel.app](https://tam-portfolio-nant.vercel.app/)
+
+---
+
+**Thanks for stopping by! Let’s build something remarkable together. 🚀**
