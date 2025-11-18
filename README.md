@@ -4,6 +4,10 @@ I'm a **Frontend Developer** who crafts **modern, responsive, and high-quality d
 
 ---
 
+<p align="center">
+  <img src="https://i.postimg.cc/qMThHTk8/Dev-pic.png" alt="Tam Dev Avatar" width="200"/>
+</p>
+
 ##  What I Do
 
 - Build **landing pages, portfolio sites, and web apps**  
