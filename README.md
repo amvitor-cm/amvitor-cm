@@ -25,6 +25,7 @@ I'm a **Frontend Developer** who crafts **modern, responsive, and high-quality d
 
 | Project | Description | Stack | Demo / Code |
 |---------|-------------|-------|-------------|
+| SocialConnect App | A modern, beautiful social media platform built with React| React18,Vite,Tailwind CSS | [Live](https://social-app-eta-bice.vercel.app) / [GitHub](https://github.com/amvitor-cm/Social-app) |
 | Proof Of Skill | Web3 skill verification platform | React, Web3, Next.js | [Live](https://proof-of-skill-dapp-eich.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Proof-of-skill) |
 | Modern NFT Marketplace | NFT marketplace with modern UI/UX | React, Web3 | [Live](https://nft-marketplace-yixr.vercel.app/) / [GitHub](https://github.com/amvitor-cm/modern-nft-marketplace) |
 | Eco Ecommerce | Sustainable eCommerce platform | React, Tailwind, Animations | [Live](https://eco-eccommerce.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Eco-ecommerce) |
