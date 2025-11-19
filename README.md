@@ -10,7 +10,7 @@ I'm a Frontend Developer who specializes in creating **modern, responsive, and h
 
 ##  What I Do
 
-- Build **landing pages, portfolio sites, and web apps**  
+- Build **landing pages, portfolio sites**  
 - Develop **eCommerce and Web3 frontends**
 - Work on **traditional web apps and blockchain-based dApps**
 - Focus on **UI/UX, animations, accessibility, and performance**  
