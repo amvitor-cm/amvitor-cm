@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tam
 
-I'm a **Frontend Developer** who crafts **modern, responsive, and high-quality digital experiences**. I specialize in creating websites and web apps that not only look good but **perform seamlessly** across all devices.
+I'm a Frontend Developer who specializes in creating  **modern, responsive, and high-quality digital experiences, including Web3 applications and decentralized apps, websites and web apps**.  that not only look good but perform seamlessly across all devices.
 
 ---
 
@@ -11,7 +11,8 @@ I'm a **Frontend Developer** who crafts **modern, responsive, and high-quality d
 ##  What I Do
 
 - Build **landing pages, portfolio sites, and web apps**  
-- Develop **eCommerce and Web3 frontends**  
+- Develop **eCommerce and Web3 frontends**
+- Work on **traditional web apps and blockchain-based dApps**
 - Focus on **UI/UX, animations, accessibility, and performance**  
 - Deliver **clean, maintainable code** for long-term projects  
 
