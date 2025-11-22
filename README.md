@@ -32,7 +32,8 @@ I'm a Frontend Developer who specializes in creating **modern, responsive, and h
 |---------|-------------|-------|-------------|
 | SocialConnect App | Modern social media frontend demo  built with React| React18, Vite,Tailwind CSS | [Live](https://social-app-eta-bice.vercel.app) / [GitHub](https://github.com/amvitor-cm/Social-app) |
 | Proof Of Skill | Web3 Responsive frontend demo dApp | React, Web3, Next.js | [Live](https://proof-of-skill-dapp-eich.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Proof-of-skill-dapps) |
-| Modern NFT Marketplace | A responsive NFT marketplace frontend-only website template | React, Web3 | [Live](https://nft-marketplace-yixr.vercel.app/) / [GitHub](https://github.com/amvitor-cm/modern-nft-marketplace) |
+| Anime Studio | Responsive frontend demo with interactive UI, anime visuals, and 3D elements to showcase skills. |Next.js 14,React 18 
+TypeScript,Tailwind CSS| [Live](https://my-anime-site-f3mm.vercel.app/) / [GitHub](https://github.com/amvitor-cm/my-anime-site-frontend) |
 | Eco Ecommerce | Responsive eCommerce landing page demo | React, Tailwind, Animations | [Live](https://eco-eccommerce.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Eco-ecommerce) |
 | Mintors Network | Community platform for professionals | React, Social | [Live](https://mintorsnetwork.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Mintors_Network) |
 | RWA Modern Website | Blockchain investment landing page | React, Responsive | [Live](https://rwa-website-five.vercel.app/) / [GitHub](https://github.com/amvitor-cm/RWA_Modern_website) |
