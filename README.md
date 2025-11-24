@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tam
 
-I'm a Frontend Developer who specializes in creating **modern, responsive, and high-quality digital experiences, including Web3 applications (dApps) and traditional web apps** that not only look good but perform seamlessly across all devices.
+I'm a Frontend Developer focused on **building modern, responsive, and high-quality digital experiences. I create Web3 dApps, interactive web apps, landing pages, portfolio sites, eCommerce frontends** that look great and perform smoothly on any device.
 
 ---
 
