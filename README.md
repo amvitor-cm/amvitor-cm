@@ -20,7 +20,7 @@ I'm a Frontend Developer focused on **building modern, responsive, and high-qual
 
 ##  Tech Stack
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML5, CSS3, Three.js
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML5, CSS3, Three.js, Web3.js, Ether.js
 - **Tools:** Git/GitHub, Framer Motion, API integration, Responsive design  
 - **Web3:** Blockchain integration, NFT platforms
 
