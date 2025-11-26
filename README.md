@@ -12,7 +12,7 @@ I'm a Frontend Developer focused on **building modern, responsive, and high-qual
 
 - Build **landing pages, portfolio sites**  
 - Develop **eCommerce and Web3 frontends**
-- Work on **traditional web apps and blockchain-based dApps**
+- Work on ** web3 integration, traditional web apps and blockchain-based dApps**
 - Focus on **UI/UX, animations, accessibility, and performance**  
 - Deliver **clean, maintainable code for long-term projects**
 
