@@ -35,7 +35,7 @@ I'm a Frontend Developer focused on **building modern, responsive, and high-qual
 | Proof Of Skill | Web3 Responsive frontend demo dApp | React, Web3, Next.js | [Live](https://proof-of-skill-dapp-eich.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Proof-of-skill-dapps) |
 | Anime Studio | Responsive frontend demo with interactive UI, anime visuals, and 3D elements to showcase skills. |Next.js, React, TypeScript, Tailwind CSS| [Live](https://my-anime-site-f3mm.vercel.app/) / [GitHub](https://github.com/amvitor-cm/my-anime-site-frontend) |
 | Eco Ecommerce | Responsive eCommerce landing page demo | React, Tailwind, Animations | [Live](https://eco-eccommerce.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Eco-ecommerce) |
-| Mintors Network | Community platform for professionals | React, Social | [Live](https://mintorsnetwork.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Mintors_Network)|
+| Mintors Network | Community platform for professionals | Javascript, CSS3, HTML5 | [Live](https://mintorsnetwork.vercel.app/) / [GitHub](https://github.com/amvitor-cm/Mintors_Network)|
 | RWA Modern Website | Blockchain investment landing page | Javascript, Responsive | [Live](https://rwa-website-five.vercel.app/) / [GitHub](https://github.com/amvitor-cm/RWA_Modern_website) |
 
 
