@@ -53,4 +53,4 @@ Reach out via:
 
 ---
 
-**Thanks for stopping by! Let’s build something remarkable together. 🚀**
+**Thanks for stopping by! Let’s build something remarkable together.**
