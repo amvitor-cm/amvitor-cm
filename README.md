@@ -4,9 +4,6 @@ I'm a Frontend Developer focused on **building modern, responsive, and high-qual
 
 ---
 
-<p align="center">
-  <img src="https://i.postimg.cc/qMThHTk8/Dev-pic.png" alt="Tam Dev Avatar" width="200"/>
-</p>
 
 ##  What I Do
 
