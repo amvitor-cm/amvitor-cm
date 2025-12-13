@@ -5,26 +5,16 @@ I specialize in **Web3, dApps, Web3 Integrations, interactive web apps, landing 
 
 ---
 
-##  What I Do
-
-- ![Landing Pages](https://img.shields.io/badge/Landing_Pages-000000?style=for-the-badge&logo=html5&logoColor=white) Build **landing pages & portfolio sites**  
-- ![eCommerce](https://img.shields.io/badge/eCommerce-FF6F61?style=for-the-badge&logo=shopify&logoColor=white) Develop **eCommerce frontends**  
-- ![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white) Work on **Web3 integration & blockchain dApps**  
-- ![UI/UX](https://img.shields.io/badge/UI/UX-8A2BE2?style=for-the-badge&logo=figma&logoColor=white) Focus on **UI/UX, animations, accessibility**  
-- ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) Deliver **clean, maintainable code** for long-term projects
-
----
-
-##  Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Web3
@@ -33,6 +23,17 @@ I specialize in **Web3, dApps, Web3 Integrations, interactive web apps, landing 
 ![NFTs](https://img.shields.io/badge/NFT-000000?style=for-the-badge&logo=nft&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi-000000?style=for-the-badge&logo=defi&logoColor=white)
 ![DAO](https://img.shields.io/badge/DAO-000000?style=for-the-badge&logo=dao&logoColor=white)
+![Wallets](https://img.shields.io/badge/Wallets-000000?style=for-the-badge&logo=metamask&logoColor=orange)
+
+### State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-004D40?style=for-the-badge&logo=recoil&logoColor=white)
+
+### Testing & QA
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/RTL-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,17 +41,18 @@ I specialize in **Web3, dApps, Web3 Integrations, interactive web apps, landing 
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=apidev&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive-000000?style=for-the-badge&logo=responsive&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-000000?style=for-the-badge&logo=ipfs&logoColor=white)
+![Arweave](https://img.shields.io/badge/Arweave-000000?style=for-the-badge&logo=arweave&logoColor=white)
 
 ---
 
 ## Let’s Connect
 
-I’m open to freelance projects, collaborations, and client work. Reach out via:
-
-- **Email:** amvitor.cm@gmail.com  
-- **GitHub:** [github.com/amvitor-cm](https://github.com/amvitor-cm)  
-- **Twitter/X:** [@amvitor_cmd](https://twitter.com/amvitor_cmd)  
-- **Portfolio:** [tam-portfolio-nant.vercel.app](https://tam-portfolio-nant.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amvitor.cm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amvitor-cm)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amvitor_cmd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tam-portfolio-nant.vercel.app)
 
 ---
 
