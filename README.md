@@ -1,21 +1,21 @@
-# Hi, I'm Tam 👋
+# Hi, I'm Tam 
 
 I'm a **Frontend Developer** focused on **building modern, responsive, and high-quality digital experiences**.  
 I specialize in **Web3, dApps, Web3 Integrations, interactive web apps, landing pages, portfolio sites, and eCommerce frontends** that look great and perform smoothly on any device.
 
 ---
 
-## 💻 What I Do
+##  What I Do
 
-- Build **landing pages & portfolio sites**  
-- Develop **eCommerce and Web3 frontends**  
-- Work on **Web3 integration, traditional web apps, and blockchain-based dApps**  
-- Focus on **UI/UX, animations, accessibility, and performance**  
-- Deliver **clean, maintainable code** for long-term projects
+- ![Landing Pages](https://img.shields.io/badge/Landing_Pages-000000?style=for-the-badge&logo=html5&logoColor=white) Build **landing pages & portfolio sites**  
+- ![eCommerce](https://img.shields.io/badge/eCommerce-FF6F61?style=for-the-badge&logo=shopify&logoColor=white) Develop **eCommerce frontends**  
+- ![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white) Work on **Web3 integration & blockchain dApps**  
+- ![UI/UX](https://img.shields.io/badge/UI/UX-8A2BE2?style=for-the-badge&logo=figma&logoColor=white) Focus on **UI/UX, animations, accessibility**  
+- ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) Deliver **clean, maintainable code** for long-term projects
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,7 +43,7 @@ I specialize in **Web3, dApps, Web3 Integrations, interactive web apps, landing 
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 I’m open to freelance projects, collaborations, and client work. Reach out via:
 
