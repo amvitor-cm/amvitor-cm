@@ -46,13 +46,19 @@ I specialize in **Web3, dApps, Web3 Integrations, interactive web apps, landing 
 ![Arweave](https://img.shields.io/badge/Arweave-000000?style=for-the-badge&logo=arweave&logoColor=white)
 
 ---
+### When I’m Not Coding
+
+I explore new technologies, contribute to open-source projects, and stay updated with the latest developments in blockchain and Web3.
+
+Outside of development, I enjoy reading tech blogs, experimenting with new frameworks, and actively participating in Web3 communities.
+
 
 ## Let’s Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amvitor.cm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amvitor-cm)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amvitor_cmd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tam-portfolio-nant.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tam-dev-beta.vercel.app/)
 
 ---
 
