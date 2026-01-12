@@ -1,6 +1,6 @@
 # Hi, I'm Tam
 
-I’m a **Full-Stack Developer** building modern, scalable, end-to-end applications — from **frontend interfaces** to **backend systems, databases, and Web3 integrations**.
+I'm a **Full-Stack Developer** building modern, scalable, end-to-end applications from **frontend interfaces** to **backend systems, databases, and Web3 integrations**.
 
 ---
 
@@ -63,7 +63,6 @@ Outside of development, I enjoy reading tech blogs, experimenting with framework
 
 ---
 
-## Let’s Connect
 
 ## Let’s Connect
 
