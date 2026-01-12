@@ -1,25 +1,22 @@
 # Hi, I'm Tam
 
-I'm a **Full-Stack Developer** building modern, scalable, end-to-end applications  from **frontend interfaces** to **backend systems, databases, and Web3 integrations**.
-
+I'm a **Full-Stack Developer** building modern, scalable, end-to-end applications from **frontend interfaces** to **backend systems, databases, and Web3 integrations**.
 
 ---
 
-## Languages
+## Languages & Core Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 
 ---
 
-## Tech Stack
+## Frontend
 
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
@@ -28,7 +25,10 @@ I'm a **Full-Stack Developer** building modern, scalable, end-to-end application
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
 
-### Backend & Databases
+---
+
+## Backend & Databases
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
@@ -41,12 +41,18 @@ I'm a **Full-Stack Developer** building modern, scalable, end-to-end application
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)  
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge)  
 
-### State Management
+---
+
+## State Management
+
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)  
 ![Recoil](https://img.shields.io/badge/Recoil-004D40?style=for-the-badge&logo=recoil&logoColor=white)  
 
-### Web3 / Blockchain
+---
+
+## Web3 / Blockchain
+
 ![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white)  
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)  
 ![NFTs](https://img.shields.io/badge/NFT-000000?style=for-the-badge&logo=nft&logoColor=white)  
@@ -56,12 +62,18 @@ I'm a **Full-Stack Developer** building modern, scalable, end-to-end application
 ![IPFS](https://img.shields.io/badge/IPFS-000000?style=for-the-badge&logo=ipfs&logoColor=white)  
 ![Arweave](https://img.shields.io/badge/Arweave-000000?style=for-the-badge&logo=arweave&logoColor=white)  
 
-### Testing & QA
+---
+
+## Testing & QA
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
 ![React Testing Library](https://img.shields.io/badge/RTL-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
-### DevOps & Tools
+---
+
+## DevOps & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)  
