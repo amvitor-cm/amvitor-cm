@@ -6,7 +6,7 @@ I’m a **Full-Stack Developer** building modern, scalable, end-to-end applicati
 
 ## Languages & Core Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
 
@@ -35,6 +35,12 @@ I’m a **Full-Stack Developer** building modern, scalable, end-to-end applicati
 ## Web3 / Blockchain
 
 ![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-627EEA?style=for-the-badge&logo=ethereum&logoColor=white) ![NFTs](https://img.shields.io/badge/NFT-000000?style=for-the-badge&logo=nft&logoColor=white) ![DeFi](https://img.shields.io/badge/DeFi-000000?style=for-the-badge&logo=defi&logoColor=white) ![DAO](https://img.shields.io/badge/DAO-000000?style=for-the-badge&logo=dao&logoColor=white) ![Wallets](https://img.shields.io/badge/Wallets-000000?style=for-the-badge&logo=metamask&logoColor=orange) ![IPFS](https://img.shields.io/badge/IPFS-000000?style=for-the-badge&logo=ipfs&logoColor=white) ![Arweave](https://img.shields.io/badge/Arweave-000000?style=for-the-badge&logo=arweave&logoColor=white)
+
+---
+
+## BaaS / Backend as a Service
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FF4F5A?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ---
 
